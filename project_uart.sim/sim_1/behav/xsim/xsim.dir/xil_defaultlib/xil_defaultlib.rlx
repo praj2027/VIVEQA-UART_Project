@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/project_uart/project_uart.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/project_uart/project_uart.srcs/sim_1/new/uart_top_tb.v,1784981466,verilog,,,,uart_tb,,,../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/project_uart/project_uart.srcs/sources_1/new/uart_rx.v,1784984312,verilog,,C:/project_uart/project_uart.srcs/sources_1/new/uart_top.v,,uart_rx,,,../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/project_uart/project_uart.srcs/sources_1/new/uart_top.v,1784981414,verilog,,C:/project_uart/project_uart.srcs/sources_1/new/uart_tx.v,,uart_top,,,../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/project_uart/project_uart.srcs/sources_1/new/uart_tx.v,1784982529,verilog,,C:/project_uart/project_uart.srcs/sim_1/new/uart_top_tb.v,,uart_tx,,,../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

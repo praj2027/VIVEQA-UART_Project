@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+PASS: sent = a5, received = a5, parity_err = 0
+$finish called at time : 965 ns : File "C:/project_uart/project_uart.srcs/sim_1/new/uart_top_tb.v" Line 75
